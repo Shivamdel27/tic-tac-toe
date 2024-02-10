@@ -3,9 +3,9 @@
  *
  * A Tic Tac Toe game in HTML/JavaScript/CSS.
  *
- * No dependencies - Uses Vanilla JS
+ * No dependencies - Uses vanilla js
  *
- * @author: Vasanth Krishnamoorthy
+ * @author: Shivam Singh
  */
 var N_SIZE = 3,
   EMPTY = '&nbsp;',
